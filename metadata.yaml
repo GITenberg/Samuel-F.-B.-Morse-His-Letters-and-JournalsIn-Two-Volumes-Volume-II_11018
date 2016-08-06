@@ -1,0 +1,37 @@
+_repo: Samuel-F.-B.-Morse-His-Letters-and-JournalsIn-Two-Volumes-Volume-II_11018
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Morse, Samuel Finley Breese
+    aliases:
+    - Morse, Samuel F. B. (Samuel Finley Breese)
+    - Morse, S. F. B. (Samuel Finley Breese)
+    birthdate: 1791
+    deathdate: 1872
+    gutenberg_agent_id: '3797'
+    url: http://www.gutenberg.org/2009/agents/3797
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_F._B._Morse
+  editor:
+    agent_name: Morse, Edward Lind
+    birthdate: 1857
+    deathdate: 1923
+    gutenberg_agent_id: '40376'
+    url: http://www.gutenberg.org/2009/agents/40376
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11018'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Telegraph'
+- !lcsh 'Morse, Samuel Finley Breese, 1791-1872'
+- !lcc 'TK'
+- GITenberg
+title: 'Samuel F. B. Morse, His Letters and Journals
+
+  In Two Volumes, Volume II'
+url: http://www.gutenberg.org/ebooks/11018
